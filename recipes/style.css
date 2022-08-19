@@ -1,14 +1,12 @@
-/*body {
+body {
     text-align: center;
     font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
     background-color: blanchedalmond;
 }
-*/
 
-#bolo {
-    text-align: center;
-    font-size: 20px;
-    font-family: 'Courier New', Courier, monospace;
-    background-color: blanchedalmond;
+
+img {
+    width: 600px;
+    height: 600px;
 }
